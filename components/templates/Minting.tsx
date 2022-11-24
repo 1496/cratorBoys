@@ -21,6 +21,10 @@ const Component: React.FC = () => {
       justifyContent="center"
       h="100%"
       alignItems="center"
+      backgroundImage="url('/assets/bg/boy.svg')"
+      backgroundSize="70%"
+      backgroundRepeat="no-repeat"
+      backgroundPosition="center"
       mx="auto"
     >
       <Fade>
